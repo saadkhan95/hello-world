@@ -1,2 +1,3 @@
 # hello-world
-first Git project eve
+first Git project ever
+i hope this is a successful endeavor
